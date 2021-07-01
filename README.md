@@ -62,6 +62,8 @@ My major is computer science :computer: that I have been studying since 2016 on 
 
 <br />
 
+---
+
 <div align = center>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=firemanCha&show_icons=true&theme=dark)
