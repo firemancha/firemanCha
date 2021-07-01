@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+### :page_with_curl: career
+
 <!--
 **firemancha/firemanCha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
