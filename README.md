@@ -1,6 +1,10 @@
-### Hi there 👋
+### :wave: Introduce
 
-## :page_with_curl: career
+Hello My name is Yoonsung.
+
+My major is computer science :computer: that I have been studying since 2016 on Kookmin Univ :school: (Seoul, Republic of Korea :kr: )
+
+### :page_with_curl: career
 
 <!--
 **firemancha/firemanCha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
