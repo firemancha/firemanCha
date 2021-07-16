@@ -54,9 +54,9 @@ My major is computer science :computer: that I have been studying since 2016 on 
 <div align = center>
 <a href="mailto: vaite714@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/vaite714@gmail.com-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"/></a>&nbsp;
-<a href="https://www.instagram.com/firemanchaa/" target="_blank">
-<img src="https://img.shields.io/badge/All Chang Tistory-FF6F00?style=for-the-badge&logo=Telegraph&logoColor=white"/></a>&nbsp;
 <a href="https://all-chang.tistory.com/" target="_blank">
+<img src="https://img.shields.io/badge/All Chang Tistory-FF6F00?style=for-the-badge&logo=Telegraph&logoColor=white"/></a>&nbsp;
+<a href="https://www.instagram.com/firemanchaa/" target="_blank">
 <img src="https://img.shields.io/badge/@firemanchaa-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 </div>
 
