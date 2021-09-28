@@ -5,13 +5,104 @@
 
 </div>
 
+<div align=center>
+
 ### :wave: Introduce
+
+</div>
 
 Hello My name is Yoonsung.
 
 My major is computer science :computer: that I have been studying since 2016 on Kookmin Univ :school: (Seoul, Republic of Korea)
 
+<div align=center>
+
+### :package: Project
+
+</div>
+
+  <details>
+  <summary><a href="https://github.com/Amazing-Web-Study/A-trello-frontend">AWS - TypeScript Study</a></summary>
+  <div markdown="1">
+  
+  - Typescript Study 프로젝트
+
+  - [Trello](https://trello.com/) 클로닝 프로젝트
+
+  - 담당 업무: Front-End, API 연동, Publishing
+
+  - 기술 스택: Express, React, axios, TypeScript
+  
+  </div>
+  </details>
+
+  <details>
+  <summary><a href="https://github.com/firemancha/HAI">HAI - 2021 Capstone Project on Kookmin Univ.</a></summary>
+  <div markdown="1">
+
+  - 2021학년도 국민대학교 소프트웨어학부 캡스톤 프로젝트
+
+  - 얼굴형 기반 헤어스타일 추천 서비스
+
+  - 담당 업무: Front-End, Publishing, Release
+
+  - 기술 스택: React, Mobx, Tensorflow.js, Github Page
+
+  </div>
+  </details>
+
+  <details>
+  <summary><a href="https://github.com/kmu-kobot/ESWContest">ESW Contest - 2021 Embedded Software Contest, Humanoid</a></summary>
+  <div markdown="1">
+
+  - 2020 임베디드 소프트웨어 경진대회 휴머노이드 부문
+
+  - 수상내역: 특선상
+
+  - 담당업무: Line Tracing 알고리즘 개발, Serial Communication 개발, Robot Motion 구현
+
+  - 기술스택: OpenCV/Python, RoboBasic
+
+  </div>
+  </details>
+
+  <details>
+  <summary><a href="https://github.com/kmu-kobot/SRC_IRC_CPP/tree/dev_lt">IRC LineTracing - Humanoid Robot Sports 2020</a></summary>
+  <div markdown="1">
+
+  - 2020 로봇융합페스티벌 휴머노이드 로봇스포츠
+
+  - 라인 트레이싱(점선, 곡선)
+
+  - 담당업무: Line Tracing 알고리즘 개발, Serial Communication 개발, Robot Motion 구현
+
+  - 기술스택: OpenCV/C++, MFC
+
+  </div>
+  </details>
+
+  <details>
+  <summary><a href="https://github.com/kmu-kobot/SRC_IRC_CPP">IRC Online - Humanoid Robot Sports 2020</a></summary>
+  <div markdown="1">
+
+  - 2020 로봇융합페스티벌 휴머노이드 로봇스포츠 온라인대회
+
+  - 수상내역: [금상](http://www.seoultechrobot.com/index.php?module=Board&action=SiteBoard&sMode=VIEW_FORM&iBrdNo=3&iBrdContNo=27&sBrdContRe=0&sSearchField=&sSearchValue=&CurrentPage=1&i=&ct_brd_pwd=)
+
+  - 담당업무: Serial Communication 개발, Robot Motion 구현, Image Processing 보조 개발
+
+  - 기술스택: OpenCV/C++, MFC
+
+  </div>
+  </details>
+
+<br/>
+
+<div align=center>
+
 ### :page_with_curl: Career
+
+</div>
 
 <div align = center>
 
@@ -23,7 +114,11 @@ My major is computer science :computer: that I have been studying since 2016 on 
 
 </div>
 
-### :package: Stack
+<div align=center>
+
+### :hammer: Stack
+
+</div>
 
 <div align = center>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>&nbsp;
@@ -49,7 +144,11 @@ My major is computer science :computer: that I have been studying since 2016 on 
 <br /><br />
 </div>
 
+<div align=center>
+
 ### :postbox: Contact
+
+</div>
 
 <div align = center>
 <a href="mailto: vaite714@gmail.com" target="_blank">
