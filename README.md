@@ -15,9 +15,9 @@ Hello My name is Yoonsung.
 
 안녕하세요, <b>Yoon</b>입니다.
 
-서울 국민대학교에서 컴퓨터공학을 전공하였습니다.
+국민대학교에서 컴퓨터공학을 전공하였습니다.
 
-겪어나가는 모든 경험으로부터 배우는 자세를 갖추려 노력하고있습니다.
+현재 [Fadu, Inc.](https://fadu.io/)의 Web Developer 입니다.
 
 <div align=center>
 
