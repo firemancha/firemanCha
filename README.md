@@ -1,29 +1,38 @@
 <div align=center>
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FfiremanCha&count_bg=%236A943D&title_bg=%23555555&icon=github.svg&icon_color=%23000000&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) &emsp;
-![GitHub followers](https://img.shields.io/github/followers/firemanCha)
-
-</div>
-
-<div align=center>
-
 ### :wave: Introduce
 
 </div>
 
-Hello My name is Yoonsung.
+Hello, My name is Yoonsung.
 
 안녕하세요, <b>Yoon</b>입니다.
 
-국민대학교에서 컴퓨터공학을 전공하였습니다.
-
-현재 [Fadu, Inc.](https://fadu.io/)의 Web Developer 입니다.
+[국민대학교](https://www.kookmin.ac.kr/user/index.do) - 컴퓨터공학 전공
+[Fadu, Inc.](https://fadu.io/) - Web Developer(Front / Back, Full Stack)
+[Dotio](https://dotio.team/) - Web Developer(Front / Back, Full Stack)
 
 <div align=center>
 
 ### :package: Project
 
 </div>
+
+  <details>
+  <summary><b>Binder</b> — HR Onboarding SaaS (Dotio, Inc.)</summary>
+  <div markdown="1">
+
+  - 신입사원 온보딩 자동화 B2B SaaS
+
+  - 입사일(D-day) 기준 콘텐츠/과제 자동 스케줄링, 다채널 알림(이메일/슬랙/카카오톡/Teams)
+
+  - 담당 업무: Front-End & Back-End, Web Full Stack
+
+  - 기술 스택: Next.js, React, TypeScript, Express.js, Sequelize ORM, TanStack Query,
+  Jotai, Tailwind CSS
+
+  </div>
+  </details>
 
   <details>
   <summary><a href="https://github.com/Amazing-Web-Study/A-trello-frontend">AWS - TypeScript Study</a></summary>
@@ -112,10 +121,12 @@ Hello My name is Yoonsung.
 
 |                                                           Type                                                           |             Date             |                      Contents                       |                    Organization                    |
 | :----------------------------------------------------------------------------------------------------------------------: | :--------------------------: | :-------------------------------------------------: | :------------------------------------------------: |
-|                                              :mortar_board:<br />Education                                               | 2016.03&nbsp;~ <br />2022.02 |   :computer: <br />Department of Computer Science   |   Kookmin Univ <br /> (Seoul, Republic of Korea)   |
-|                                                         Society                                                          | 2019.12&nbsp;~ <br />2021.01 | Intelligent Humanoid <br /> Vision & Robot's action |       Kobot <br /> Society of Kookmin Univ.        |
-|                                                :office: <br /> Employment                                                | 2020.12&nbsp;~ <br />2021.02 | SW Engineer. <br /> Circuit Design Team & App Dev.  | Bolt & Nut, Inc. <br /> (Seoul, Republic of Korea) |
-| <img src="https://fadu.io/wp-content/uploads/2022/05/favicon-150x150.jpg" width="14px" height="14px"/> <br /> Employment |        2022.06&nbsp;~        |         SW Engineer. <br /> Web Full Stack          |    Fadu, Inc. <br /> (Seoul, Republic of Korea)    |
+|:mortar_board:<br />Education| 2016.03&nbsp;~ <br />2022.02 |   :computer: <br />Department of Computer Science   |   Kookmin Univ <br /> (Seoul, Republic of Korea)   |
+| Society | 2019.12&nbsp;~ <br />2021.01 | Intelligent Humanoid <br /> Vision & Robot's action |       Kobot <br /> Society of Kookmin Univ.        |
+| Society | 2019.12&nbsp;~ <br />2021.01 | Intelligent Humanoid <br /> Vision & Robot's action |       Kobot <br /> Society of Kookmin Univ.        |
+|:office: <br /> Employment| 2020.12&nbsp;~<br />2021.02 | SW Engineer. <br /> Circuit Design Team & App Dev.  | Bolt & Nut, Inc. <br /> (Seoul, Republic of Korea) |
+| <img src="https://media.licdn.com/dms/image/v2/D560BAQHSW0bZwgXwCw/company-logo_200_200/B56ZqQ9_4ZG0AI-/0/1763368763418/fadutec_logo?e=2147483647&v=beta&t=aB9p1IyByE9rxvXlM24pOKJLf5--IwW3_2QR60T4c44" width="14px" height="14px"/> <br /> Employment | 2022.06&nbsp;~<br />2024.03|SW Engineer. <br /> Web Full Stack | Fadu, Inc. <br /> (Seoul, Republic of Korea) |
+| <img src="https://media.licdn.com/dms/image/v2/D560BAQGTLBHnHAcdig/company-logo_200_200/company-logo_200_200/0/1689663086235?e=2147483647&v=beta&t=OqG5z3Rr4hwFPBBrZwzPA4D4MZuPmX2MnZV0mF49TSk" width="14px" height="14px"/> <br /> Employment | 2024.04&nbsp;~<br />2026.05|SW Engineer. <br /> Web Full Stack | Dotio, Inc. <br /> (Seoul, Republic of Korea) |
 
 </div>
 
@@ -158,10 +169,8 @@ Hello My name is Yoonsung.
 <div align = center>
 <a href="mailto: vaite714@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/vaite714@gmail.com-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"/></a>&nbsp;
-<a href="https://all-chang.tistory.com/" target="_blank">
-<img src="https://img.shields.io/badge/All Chang Tistory-FF6F00?style=for-the-badge&logo=Telegraph&logoColor=white"/></a>&nbsp;
-<a href="https://www.instagram.com/firemanchaa/" target="_blank">
-<img src="https://img.shields.io/badge/@firemanchaa-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
+<a href="https://www.instagram.com/young.char__/" target="_blank">
+<img src="https://img.shields.io/badge/@young.char__-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 </div>
 
 <br />
