@@ -8,8 +8,8 @@ Hello, My name is Yoonsung.
 
 안녕하세요, <b>Yoon</b>입니다.
 
-[국민대학교](https://www.kookmin.ac.kr/user/index.do) - 컴퓨터공학 전공
-[Fadu, Inc.](https://fadu.io/) - Web Developer(Front / Back, Full Stack)
+[국민대학교](https://www.kookmin.ac.kr/user/index.do) - 컴퓨터공학 전공 <br/>
+[Fadu, Inc.](https://fadu.io/) - Web Developer(Front / Back, Full Stack) <br/>
 [Dotio](https://dotio.team/) - Web Developer(Front / Back, Full Stack)
 
 <div align=center>
